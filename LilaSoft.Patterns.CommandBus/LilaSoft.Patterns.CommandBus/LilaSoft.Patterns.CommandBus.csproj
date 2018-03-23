@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Johnny Behague</Authors>
+    <Description>Le projet LilaSoft.Patterns.CommandBus est un fork du projet CommandBus du repository eShopContainers afin de faciliter mes futurs développements. Comme tous mes forks issus de ce projet, ils sont issus à changement suivant l'évolution de mes besoins.</Description>
+    <PackageProjectUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.CommandBus</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.CommandBus</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
 
 </Project>
