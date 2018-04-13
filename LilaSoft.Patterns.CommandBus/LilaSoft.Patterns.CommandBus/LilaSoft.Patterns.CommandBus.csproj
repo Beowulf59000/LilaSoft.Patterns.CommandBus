@@ -7,6 +7,7 @@
     <PackageProjectUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.CommandBus</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.CommandBus</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
+    <PackageLicenseUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.CommandBus/blob/master/LICENSE.md</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
